@@ -1,2 +1,2 @@
 # vSocial
-social network test
+A Social Network
